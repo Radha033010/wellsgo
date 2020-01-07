@@ -1,0 +1,56 @@
+[
+  {
+    "ComapnyOverview": {
+      "EntityName": "BANQUE RAIFFEISEN SC",
+      "Contact Address": "CONTACT ADDRESS",
+      "Head Quarters": "HEAD QUARTERS",
+      "AddressLine": "4, RUE LEON LAVAL LEUDELANGE 3372 LUXEMBOURG",
+      "Risk Score": "RISK SCORE",
+      "Screening Results": "SCREENING RESULTS",
+      "Risk Rating": "RISK RATINGS",
+      "Related Entities": "RELATED ENTITIES",
+      "ASSOCIATED LOCATIONS": "ASSOCIATED LOCATIONS",
+      "Who Are We": "Who Are We",
+      "Leadership": "LEADERSHIP",
+      "Stock Performance":"Stock Performance",
+      "Visual Link Analysis": "Visual Link Analysis",
+      "Associated Companies": "Associated Companies"
+    }
+  },
+  {
+    "ComapnyOverview": {
+      "EntityName": "CENTRAL BANK OF NIGERIA",
+      "Contact Address": "CONTACT ADDRESS",
+      "Head Quarters": "HEAD QUARTERS",
+      "AddressLine": "PLOT 33, ABUBAKAR TAFAWA BALEWA WAY CENTRAL BUSINESS DISTRICT, CADASTRAL ZONE AREA, PO BOX 187 ABUJA FEDERAL CAPITAL TERRITORY NIGERIA",
+      "Risk Score": "RISK SCORE",
+      "Screening Results": "SCREENING RESULTS",
+      "Risk Rating": "RISK RATINGS",
+      "Related Entities": "RELATED ENTITIES",
+      "ASSOCIATED LOCATIONS": "ASSOCIATED LOCATIONS",
+      "Who Are We": "Who Are We",
+      "Leadership": "LEADERSHIP",
+      "Stock Performance":"Stock Performance",
+      "Visual Link Analysis": "Visual Link Analysis",
+      "Associated Companies": "Associated Companies"
+    }
+  },
+  {
+    "ComapnyOverview": {
+      "EntityName": "AIB MORTGAGE BANK",
+      "Contact Address": "CONTACT ADDRESS",
+      "Head Quarters": "HEAD QUARTERS",
+      "AddressLine": "BANKCENTRE BALLSBRIDGE, DUBLIN 4 DUBLIN DUBLIN IRELAND",
+      "Risk Score": "RISK SCORE",
+      "Screening Results": "SCREENING RESULTS",
+      "Risk Rating": "RISK RATINGS",
+      "Related Entities": "RELATED ENTITIES",
+      "ASSOCIATED LOCATIONS": "ASSOCIATED LOCATIONS",
+      "Who Are We": "Who Are We",
+      "Leadership": "LEADERSHIP",
+      "Stock Performance":"Stock Performance",
+      "Visual Link Analysis": "Visual Link Analysis",
+      "Associated Companies": "Associated Companies"
+    }
+  }
+  ]

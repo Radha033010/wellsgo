@@ -1,0 +1,44 @@
+[
+  {
+    "Company Identifiers": {
+      "VAT/TIN": "VAT/TIN",
+      "VAT/TINValue": "unknown",
+      "LEI": "LEI",
+      "LEIValue": "549300F7FBD744MEP844",
+      "Trade/Commerce": "Trade/Commerce",
+      "Trade/CommerceValue": "B 20.128 (Luxembourg)",
+      "International Securities Identification Number": "International Securities Identification Number",
+      "International Securities Identification NumberValue": "unknown",
+      "BIC / Swift Codes": "BIC / Swift Codes",
+      "BIC / Swift CodesValue": "unknown"
+    }
+  },
+  {
+    "Company Identifiers": {
+      "VAT/TIN": "VAT/TIN",
+      "VAT/TINValue": "unknown",
+      "LEI": "LEI",
+      "LEIValue": "549300G1JG004Y3K8S97",
+      "Trade/Commerce": "Trade/Commerce",
+      "Trade/CommerceValue": "unknown",
+      "International Securities Identification Number": "International Securities Identification Number",
+      "International Securities Identification NumberValue": "unknown",
+      "BIC / Swift Codes": "BIC / Swift Codes",
+      "BIC / Swift CodesValue": "unknown"
+    }
+  },
+  {
+    "Company Identifiers": {
+      "VAT/TIN": "VAT/TIN",
+      "VAT/TINValue": "unknown",
+      "LEI": "LEI",
+      "LEIValue": "549300CGO72ED3XVUZ04",
+      "Trade/Commerce": "Trade/Commerce",
+      "Trade/CommerceValue": "404926",
+      "International Securities Identification Number": "International Securities Identification Number",
+      "International Securities Identification NumberValue": "unknown",
+      "BIC / Swift Codes": "BIC / Swift Codes",
+      "BIC / Swift CodesValue": "unknown"
+    }
+  }
+]

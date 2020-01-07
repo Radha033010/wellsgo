@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  
+  <parameter name="Browser" value="Chrome-Windows" />
+  <parameter name="Headless" value="false" />
+
+  <parameter name="EnvironmentName" value="preprod" />
+  <parameter name="BaseURL" value="http://tulip-public-test.xara.ai/element/#/domain" />
+  <parameter name="SiteName" value="preprodsel.intelligencebank.com" />
+
+  <listeners>
+    <listener class-name="com.element.platform.Listeners"/>
+    <listener class-name="com.element.utils.ExtentReporterNG"/>
+  </listeners>
+
+  <test name="Validating User login">
+    <classes>
+      <class name="com.element.cucumberOptions.TestRunner"/>
+    </classes>
+  </test>
+
+</suite>  
